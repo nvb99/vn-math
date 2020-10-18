@@ -1,0 +1,186 @@
+[{
+    "id"        : "pm",
+    "name"      : "Plus Minus",
+    "fileName"  : "Basic Math/pm.png"
+},
+{
+    "id"        : "infty",
+    "name"      : "Infinity",
+    "fileName"  : "Basic Math/infty.png"
+},
+{
+    "id"        : "equal",
+    "name"      : "Equal",
+    "fileName"  : "Basic Math/Equal.png"
+},
+{
+    "id"        : "infty",
+    "name"      : "Not Equal To",
+    "fileName"  : "Basic Math/neq.png"
+},
+{
+    "id"        : "approximately",
+    "name"      : "Approximately",
+    "fileName"  : "Basic Math/Approximately.png"
+},
+{
+    "id"        : "times",
+    "name"      : "Multiplication Sign",
+    "fileName"  : "Basic Math/times.png"
+},
+{
+    "id"        : "div",
+    "name"      : "Division Sign",
+    "fileName"  : "Basic Math/div.png"
+},
+{
+    "id"        : "factorial",
+    "name"      : "Factorial",
+    "fileName"  : "Basic Math/Factorial.png"
+},
+{
+    "id"        : "propto",
+    "name"      : "Proportional To",
+    "fileName"  : "Basic Math/propto.png"
+},
+{
+    "id"        : "lessthan",
+    "name"      : "Less Than",
+    "fileName"  : "Basic Math/LessThan.png"
+},
+{
+    "id"        : "ll",
+    "name"      : "Much Less Than",
+    "fileName"  : "Basic Math/ll.png"
+},
+{
+    "id"        : "greaterthan",
+    "name"      : "Greater Than",
+    "fileName"  : "Basic Math/GreaterThan.png"
+},
+{
+    "id"        : "gg",
+    "name"      : "Much Greater Than",
+    "fileName"  : "Basic Math/gg.png"
+},
+{
+    "id"        : "leq",
+    "name"      : "Less Than Or Equal To",
+    "fileName"  : "Basic Math/leq.png"
+},
+{
+    "id"        : "geq",
+    "name"      : "Greater Than Or Equal To",
+    "fileName"  : "Basic Math/geq.png"
+},
+{
+    "id"        : "mp",
+    "name"      : "Minus Plus",
+    "fileName"  : "Basic Math/mp.png"
+},
+{
+    "id"        : "cong",
+    "name"      : "Approximately Equal To",
+    "fileName"  : "Basic Math/cong.png"
+},
+{
+    "id"        : "approx",
+    "name"      : "Almost Equal To (Asymptotic To)",
+    "fileName"  : "Basic Math/approx.png"
+},
+{
+    "id"        : "equiv",
+    "name"      : "Identical To",
+    "fileName"  : "Basic Math/equiv.png"
+},
+{
+    "id"        : "forall",
+    "name"      : "For All",
+    "fileName"  : "Basic Math/forall.png"
+},
+{
+    "id"        : "complement",
+    "name"      : "Complement",
+    "fileName"  : "Basic Math/Complement.png"
+},
+{
+    "id"        : "partial",
+    "name"      : "Partial Differential",
+    "fileName"  : "Basic Math/partial.png"
+},
+{
+    "id"        : "sqrt",
+    "name"      : "Radical Sign",
+    "fileName"  : "Basic Math/sqrt.png"
+},
+{
+    "id"        : "cbrt",
+    "name"      : "Cube Root",
+    "fileName"  : "Basic Math/cbrt.png"
+},
+{
+    "id"        : "qdrt",
+    "name"      : "Fourth Root",
+    "fileName"  : "Basic Math/qdrt.png"
+},
+{
+    "id"        : "cup",
+    "name"      : "Union",
+    "fileName"  : "Basic Math/cup.png"
+},
+{
+    "id"        : "cap",
+    "name"      : "Intersection",
+    "fileName"  : "Basic Math/cap.png"
+},
+{
+    "id"        : "emptyset",
+    "name"      : "Empty Set",
+    "fileName"  : "Basic Math/emptyset.png"
+},
+{
+    "id"        : "percentage",
+    "name"      : "Percentage",
+    "fileName"  : "Basic Math/Percentage.png"
+},
+{
+    "id"        : "degree",
+    "name"      : "Degrees",
+    "fileName"  : "Basic Math/degree.png"
+},
+{
+    "id"        : "degf",
+    "name"      : "Degrees Fahreheit",
+    "fileName"  : "Basic Math/degf.png"
+},
+{
+    "id"        : "degc",
+    "name"      : "Degrees Celcius",
+    "fileName"  : "Basic Math/degc.png"
+},
+{
+    "id"        : "inc",
+    "name"      : "Increment",
+    "fileName"  : "Basic Math/inc.png"
+},
+{
+    "id"        : "nabla",
+    "name"      : "Nabla",
+    "fileName"  : "Basic Math/nabla.png"
+},
+{
+    "id"        : "exists",
+    "name"      : "There exists",
+    "fileName"  : "Basic Math/exists.png"
+},
+{
+    "id"        : "theredoesnotexist",
+    "name"      : "There Does Not Exist",
+    "fileName"  : "Basic Math/ThereDoesNotExist.png"
+},
+{
+    "id"        : "in",
+    "name"      : "Element Of",
+    "fileName"  : "Basic Math/in.png"
+}
+]

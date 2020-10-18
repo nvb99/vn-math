@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <link rel="stylesheet" href="./lib/css/style.css" />
+    <link rel="shortcut icon" href="./uploads/img/loader.gif" type="image/x-icon">
+    <title>Equation Supporter</title>
+    <script src="http://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+</head>
+<body onload="loadFraction()">
+    <div class="loader">
+        <h3><img src="./uploads/img/loader.gif" alt="Loader.gif"></h3>
+    </div>
+    <div class="container">
+        <h2 style="color: #ffffff;">Equation Supporter</h2>
+        <div id="editor-container" style="background: #eee">
+            <div class="header-row">
+                <div id="editor-menu">
+                    <h3 style="margin: -5.5px 0px;">Format</h3><hr>
+                    <button class="btn" id="bold-button" title="Bold"><b>Bold</b></button> <br>
+                    <button class="btn" id="underline-button" title="Underline"><u>Underline</u></button> <br>
+                    <button class="btn" id="italic-button" title="Italic"><i>Italic</i></button> <br>
+                    <button class="btn" id="list-button" title="Bullet List">List</button> <br>
+                    <button style="display: none;" class="btn" id="image-button" title="Picture">Picture</button>
+                </div>
+                <div id="representEquation">
+                    <div class="equationTab">
+                        <span class="tabItem active">Basic Math</span>
+                        <span class="tabItem">Greek Letter</span>
+                        <span class="tabItem">Operator</span>
+                        <span class="tabItem">Arrow</span>
+                        <span class="tabItem">Geomertry</span>
+                    </div>
+                </div>
+                <div class="structureTab">
+                    <h3 style="margin: 0px;">Structure</h3>
+                    <hr>
+                    <div>
+                        <button title="Fraction"><img src="./uploads/img/Structures/fraction.png" alt=""></button>
+                        <button title="Script"><img src="./uploads/img/Structures/script.png" alt=""></button>
+                        <button title="Radical"><img src="./uploads/img/Structures/radical.png" alt=""></button>
+                        <button title="Integral"><img src="./uploads/img/Structures/integral.png" alt=""></button>
+                        <button title="Large Operator"><img src="./uploads/img/Structures/largeOperator.png" alt=""></button>
+                        <button title="Bracket"><img src="./uploads/img/Structures/bracket.png" alt=""></button>
+                        <button title="Function"><img src="./uploads/img/Structures/function.png" alt=""></button>
+                        <button title="Accent"><img src="./uploads/img/Structures/accent.png" alt=""></button>
+                        <button title="Limit And Log"><img src="./uploads/img/Structures/limitAndLog.png" alt=""></button>
+                        <button title="Operator"><img src="./uploads/img/Structures/operator.png" alt=""></button>
+                        <button title="Matrix"><img src="./uploads/img/Structures/matrix.png" alt=""></button>
+                    </div>
+                </div>
+            </div>
+            <div id="editor-text" contenteditable="true" placeholder="Start writing ..." spellcheck="false" style="background: #fff;">
+                Công thức tính nghiệm phương trình bậc 2 một ẩn:
+                <div>
+                    <math xmlns="http://www.w3.org/1998/Math/MathML">
+                        <mi>x</mi>
+                        <mo>=</mo>
+                        <mfrac>
+                          <mrow>
+                            <mo>&#x2212;<!-- − --></mo>
+                            <mi>b</mi>
+                            <mo>&#x00B1;<!-- ± --></mo>
+                            <msqrt>
+                              <msup>
+                                <mi>b</mi>
+                                <mn>2</mn>
+                              </msup>
+                              <mo>&#x2212;<!-- − --></mo>
+                              <mn>4</mn>
+                              <mi>a</mi>
+                              <mi>c</mi>
+                            </msqrt>
+                          </mrow>
+                          <mrow>
+                            <mn>2</mn>
+                            <mi>a</mi>
+                          </mrow>
+                        </mfrac>
+                      </math>
+                </div>
+                    trong đó: a, b, c lần lượt là các tham số trong phương trình
+                    <math xmlns="http://www.w3.org/1998/Math/MathML">
+                        <mi>a</mi>
+                        <msup>
+                          <mi>x</mi>
+                          <mrow class="MJX-TeXAtom-ORD">
+                            <mn>2</mn>
+                          </mrow>
+                        </msup>
+                        <mo>+</mo>
+                        <mi>b</mi>
+                        <mi>x</mi>
+                        <mo>+</mo>
+                        <mi>c</mi>
+                        <mo>=</mo>
+                        <mn>0</mn>
+                      </math>.
+            </div>
+        <p class="submitBtn">
+            <button class="btn" type="submit" onclick="sendData()">Export Data</button>
+        </p>
+    </div>
+    <script
+        src="http://code.jquery.com/jquery-3.5.1.js"
+        integrity="sha256-QWo7LDvxbWT2tbbQ97B53yJnYU3WhH/C8ycbRAkjPDc="
+        crossorigin="anonymous"></script>
+    <script src="./lib/js/main.js"></script>
+</body>
+</html>
