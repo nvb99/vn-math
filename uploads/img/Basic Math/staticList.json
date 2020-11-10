@@ -1,185 +1,222 @@
 [{
     "id"        : "pm",
+    "laTex"     : "±",
     "name"      : "Plus Minus",
     "fileName"  : "Basic Math/pm.png"
 },
 {
     "id"        : "infty",
+    "laTex"     : "∞",
     "name"      : "Infinity",
     "fileName"  : "Basic Math/infty.png"
 },
 {
     "id"        : "equal",
+    "laTex"     : "=",
     "name"      : "Equal",
     "fileName"  : "Basic Math/Equal.png"
 },
 {
-    "id"        : "infty",
+    "id"        : "neq",
+    "laTex"     : "≠",
     "name"      : "Not Equal To",
     "fileName"  : "Basic Math/neq.png"
 },
 {
     "id"        : "approximately",
+    "laTex"     : "~",
     "name"      : "Approximately",
     "fileName"  : "Basic Math/Approximately.png"
 },
 {
     "id"        : "times",
+    "laTex"     : "×",
     "name"      : "Multiplication Sign",
     "fileName"  : "Basic Math/times.png"
 },
 {
     "id"        : "div",
+    "laTex"     : "÷",
     "name"      : "Division Sign",
     "fileName"  : "Basic Math/div.png"
 },
 {
     "id"        : "factorial",
+    "laTex"     : "!",
     "name"      : "Factorial",
     "fileName"  : "Basic Math/Factorial.png"
 },
 {
     "id"        : "propto",
+    "laTex"     : "∝",
     "name"      : "Proportional To",
     "fileName"  : "Basic Math/propto.png"
 },
 {
     "id"        : "lessthan",
+    "laTex"     : "&lt;",
     "name"      : "Less Than",
     "fileName"  : "Basic Math/LessThan.png"
 },
 {
     "id"        : "ll",
+    "laTex"     : "≪",
     "name"      : "Much Less Than",
     "fileName"  : "Basic Math/ll.png"
 },
 {
     "id"        : "greaterthan",
+    "laTex"     : "&gt;",
     "name"      : "Greater Than",
     "fileName"  : "Basic Math/GreaterThan.png"
 },
 {
     "id"        : "gg",
+    "laTex"     : "≫",
     "name"      : "Much Greater Than",
     "fileName"  : "Basic Math/gg.png"
 },
 {
     "id"        : "leq",
+    "laTex"     : "≤",
     "name"      : "Less Than Or Equal To",
     "fileName"  : "Basic Math/leq.png"
 },
 {
     "id"        : "geq",
+    "laTex"     : "≥",
     "name"      : "Greater Than Or Equal To",
     "fileName"  : "Basic Math/geq.png"
 },
 {
     "id"        : "mp",
+    "laTex"     : "∓",
     "name"      : "Minus Plus",
     "fileName"  : "Basic Math/mp.png"
 },
 {
     "id"        : "cong",
+    "laTex"     : "≅",
     "name"      : "Approximately Equal To",
     "fileName"  : "Basic Math/cong.png"
 },
 {
     "id"        : "approx",
+    "laTex"     : "≈",
     "name"      : "Almost Equal To (Asymptotic To)",
     "fileName"  : "Basic Math/approx.png"
 },
 {
     "id"        : "equiv",
+    "laTex"     : "≡",
     "name"      : "Identical To",
     "fileName"  : "Basic Math/equiv.png"
 },
 {
     "id"        : "forall",
+    "laTex"     : "∀",
     "name"      : "For All",
     "fileName"  : "Basic Math/forall.png"
 },
 {
     "id"        : "complement",
+    "laTex"     : "∁",
     "name"      : "Complement",
     "fileName"  : "Basic Math/Complement.png"
 },
 {
     "id"        : "partial",
+    "laTex"     : "∂",
     "name"      : "Partial Differential",
     "fileName"  : "Basic Math/partial.png"
 },
 {
     "id"        : "sqrt",
+    "laTex"     : "√",
     "name"      : "Radical Sign",
     "fileName"  : "Basic Math/sqrt.png"
 },
 {
     "id"        : "cbrt",
+    "laTex"     : "∛",
     "name"      : "Cube Root",
     "fileName"  : "Basic Math/cbrt.png"
 },
 {
     "id"        : "qdrt",
+    "laTex"     : "∜",
     "name"      : "Fourth Root",
     "fileName"  : "Basic Math/qdrt.png"
 },
 {
     "id"        : "cup",
+    "laTex"     : "∪",
     "name"      : "Union",
     "fileName"  : "Basic Math/cup.png"
 },
 {
     "id"        : "cap",
+    "laTex"     : "∩",
     "name"      : "Intersection",
     "fileName"  : "Basic Math/cap.png"
 },
 {
     "id"        : "emptyset",
+    "laTex"     : "∅",
     "name"      : "Empty Set",
     "fileName"  : "Basic Math/emptyset.png"
 },
 {
     "id"        : "percentage",
+    "laTex"     : "%",
     "name"      : "Percentage",
     "fileName"  : "Basic Math/Percentage.png"
 },
 {
     "id"        : "degree",
+    "laTex"     : "°",
     "name"      : "Degrees",
     "fileName"  : "Basic Math/degree.png"
 },
 {
     "id"        : "degf",
+    "laTex"     : "℉",
     "name"      : "Degrees Fahreheit",
     "fileName"  : "Basic Math/degf.png"
 },
 {
     "id"        : "degc",
+    "laTex"     : "℃",
     "name"      : "Degrees Celcius",
     "fileName"  : "Basic Math/degc.png"
 },
 {
     "id"        : "inc",
+    "laTex"     : "∆",
     "name"      : "Increment",
     "fileName"  : "Basic Math/inc.png"
 },
 {
     "id"        : "nabla",
+    "laTex"     : "∇",
     "name"      : "Nabla",
     "fileName"  : "Basic Math/nabla.png"
 },
 {
     "id"        : "exists",
+    "laTex"     : "∃",
     "name"      : "There exists",
     "fileName"  : "Basic Math/exists.png"
 },
 {
     "id"        : "theredoesnotexist",
+    "laTex"     : "∄",
     "name"      : "There Does Not Exist",
     "fileName"  : "Basic Math/ThereDoesNotExist.png"
 },
 {
     "id"        : "in",
+    "laTex"     : "∈",
     "name"      : "Element Of",
     "fileName"  : "Basic Math/in.png"
 }
